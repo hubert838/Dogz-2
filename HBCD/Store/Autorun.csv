@@ -1,0 +1,41 @@
+AntiVirus/Spyware,Archivers,Backup,Browsers,Cleaners,Editors / Viewers,FileSystem,Hard Disk / Storage,Network,Optimizers,Partition / Boot / MBR,Passwords / Keys,Process,Recovery,Registry,Remote Control,Security / Encryption,Startup,System Information,Testing,Tweakers,Other
+ComboFix (Malware Removal),7-Zip,Drivers\DoubleDriver,7-Zip File Manager,CCleaner,HxD (Hex/Disk/RAM Editor),Alternate Stream View (NTFS),DiskView,Angry IP Scanner,Defraggler,Commandline\BootSect,Product Keys\License Crawler,Dependency Walker,HDD Scan,ERUNT (The Emergency Recovery Utility NT),Ammyy Admin,Data Shredder,AutoRuns,BlueScreenView,Bart's Stuff Test,Dial a Fix (not for vista/7),Bulk Rename Utility
+ComboFix.bat,7-Zip.bat,DoubleDriver.bat,7-Zip.bat,CCleaner.bat,HxD.bat,AlternateStreamView.bat,DiskView.bat,AngryIPScanner.bat,Defraggler.bat,BootSect.bat,LicenseCrawler.bat,DependencyWalker.bat,HDDScan.bat,ERUNT.bat,AmmyyAdmin.bat,Shredder.bat,AutoRuns.bat,BlueScreenView.bat,BartsStuffTest.bat,DialAFix.bat,BulkRenameUtility.bat
+CoolWebSearch Remover,Easy UHA,Drivers\Driver Backup,ERD Explorer (Optional),Cleanup!,IrfanView (Image Viewer/Editor),FileDisk Mount Tool (for ISO/BIN/NRG/MDF/IMA/IMG),HDD Scan (Low-level diagnostic),CurrPorts (Who is using network?),JkDefrag,Commandline\Diskman4,Product Keys\ProduKey (Xp Key Viewer),Delete Doctor (Hard to delete),DiskDigger,Fix hard disk controller (fix_hdc.cmd),TeamViewer,DiskCryptor,HijackThis,CPU-Z,Disk Speed,Disable Autorun.inf (for CD/USB virus),Hiren's BootCD Customizer
+CoolWebSearch_Remover.bat,EasyUHA.exe,DriverBackup.bat,ERDExplorer.bat,Cleanup.bat,IrfanView.bat,Filedisk.bat,HDDScan.bat,CPorts.bat,JkDefrag.bat,Diskman4.bat,ProduKey.bat,DeleteDoctor.bat,DiskDigger.bat,FixHDC.bat,TeamViewer.bat,DiskCryptor.bat,HijackThis.bat,CPUz.bat,DskSpeed.bat,DisableAutorun.bat,HBCDCustomizer.exe
+Dr.Web CureIt! Antivirus,,Drivers\SmartDriverBackup,Explore2fs (Linux ext2/ext3),Data Shredder,Sumatra PDF Viewer,NTFS Access (to set permissions),HD Tune (Test / Health / ErrorScan),Network Password Recovery,NT Registry Optimizer,Commandline\MbrFix,Product Keys\WinKeyFinder/Changer (Xp),IBProcMan (Process manager),DiskGenius,Glary Registry Repair,TightVNC\Server,TrueCrypt,SilentRunners,Dtemp (Drive Temperature),HDD Scan,Disable Compress Old Files,Search My Files
+DrWebCureIt.exe,,SmartDriverBackup.bat,Explore2fs.bat,Shredder.bat,SumatraPDF.bat,NTFSAccess.bat,HDTune.bat,NetworkPasswordRecovery.bat,NtRegOpt.bat,MbrFix.bat,WinKeyFinder.bat,IBProcMan.exe,DiskGenius.bat,GlaryRegistryRepair.bat,TightVNCServer.bat,TrueCrypt.bat,SilentRunners.bat,DTemp.bat,HDDScan.bat,DisableCompressOldFiles.bat,SearchMyFiles.bat
+GMER (Rootkit Detector),,CopyWipe,Opera Web Browser,Delete Doctor,,NewSID,Victoria (HDD Info / Test),Opera Web Browser,PageDfrg (Defrag System files),Commandline\MBR Utility,Product Keys\XP Key Reader / Changer,KillBox (delete in-use files),GetDataBack (Optional)\For NTFS,NT Registry Optimizer,TightVNC\Viewer,,StartupCPL,GPU-Z,H2testw (Flash memory test),Edit Hosts File,WinMerge
+GMER.bat,,CopyWipe.bat,Opera.bat,DeleteDoctor.bat,,NewSID.bat,Victoria.bat,Opera.bat,PageDfrg.bat,MBRUtility.bat,XP-Key-Reader.bat,KillBox.exe,GetDataNTFS.bat,NtRegOpt.bat,TightVNCViewer.bat,,StartupCPL.bat,GPU-Z.bat,H2testw.bat,EditHosts.bat,WinMerge.bat
+Malwarebytes' Anti-Malware,,DriveImage XML,Total Commander,Glary Registry Repair/Cleanup,,Virtual Floppy Drive,Western Digital Data Lifeguard Diagnostic,PuTTY (SSH Client),,Commandline\MBRWizard,Windows Login\Autologon,OpenedFilesView,GetDataBack (Optional)\For FAT,RegScanner,,,StartupMonitor,HD Tune,MemTest,EzPCFix,WinNTSetup
+Malwarebytes.bat,,DriveImageXML.bat,TotalCommander.bat,GlaryRegistryRepair.bat,,VirtualFloppyDrive.bat,WDDataLifeguardDiagnostic.bat,PuTTY.bat,,MBRWizard.bat,Autologon.bat,OpenedFilesView.bat,GetDataFAT.bat,RegScanner.bat,,,StartupMonitor.exe,HDTune.bat,MemTest.bat,EzPCFix.bat,WinNTSetup.bat
+Remove Fake Antivirus,,ERUNT (The Emergency Recovery Utility NT),,MyUninstaller,,,,SmartSniff (Network monitoring),,BellaVista (BCD Editor),Windows Login\Password Renew (Reset User Password),Process Activity View,IsoBuster (For CD/DVD Recovery),Registry Backup && Restore Tool,,,,PCI32 (device info),Monitor Tester (LCD),Installed Codec,
+RemoveFakeAntivirus.bat,,ERUNT.bat,,MyUninstaller.bat,,,,SmartSniff.bat,,BellaVista.bat,PasswordRenew.bat,ProcessActivityView.bat,IsoBuster.bat,RegistryBackup.bat,,,,PCI32.bat,MonitorTester.bat,InstalledCodec.bat,
+RootkitRevealer,,FastCopy,,SpaceMonger (Find big files on HDD),,,,TCPView (TCP/UDP connections),,BootICE (Boot sector install/change),Windows Login\WindowsGate (Disables logon password validation),Process Explorer,Partition Find and Mount,Registry Editor PE,,,,PC Wizard,S && M Stress Tests,KeyTweak (Broken keyboard Remap),
+RootkitRevealer.bat,,FastCopy.bat,,SpaceMonger.bat,,,,TCPView.bat,,BootICE.bat,WindowsGate.bat,ProcessExplorer.bat,PartitionFindAndMount.bat,RegEditPE.bat,,,,PCWizard.bat,SM.bat,KeyTweak.bat,
+SmitFraudFix (Malware Removal),,Ghost (Optional)\Ghost32,,WinDirStat (Folders size check),,,,Wireless Key Viewer,,DiskGenius (Partition table),Asterisk Logger (Reveal password behind dots),Process Monitor,PartitionRecovery,Registry/Process Monitor,,,,SIW (Sys Info for Win),Victoria (HDD Info / Test),Protect a Drive from Autorun Virus,
+SmitFraudFix.bat,,Ghost32.bat,,WinDirStat.bat,,,,WirelessKeyView.bat,,DiskGenius.bat,AsteriskLogger.bat,ProcessMonitor.bat,PartitionRecovery.bat,ProcessMonitor.bat,,,,siw.exe,Victoria.bat,ProtectDriveFromAutorunVirus.bat,
+Spybot Search && Destroy,,Ghost (Optional)\Image Explorer,,,,,,XP TCPIP Winsock Repair,,Fat32 Formatter GUI,Content Advisor Password Remover,Unlocker (delete in-use files),PhotoRec (Deleted photos),RegFromApp (Monitor Changes),,,,Speccy,Video Memory Stress Test,RRT - Remove Restrictions Tool,
+SpybotSD.bat,,GhostExp.bat,,,,,,XpTCPIPWinsockRepair.bat,,Fat32Formatter.bat,ContentAdvisorPasswordRemover.bat,Unlocker.bat,PhotoRec.bat,RegFromApp.bat,,,,Speccy.bat,VideoMemoryStressTest.bat,RemoveRestrictionsTool.bat,
+Spyware Blaster (Prevent the installation of spyware),,GImageX - ImageX GUI,,,,,,,,Grub4Dos Installer,IE (Internet Explorer) PassView,,Raw Copy,Registry Restore Wizard,,,,UnknownDevices,,RemoveWGA,
+SpywareBlaster.bat,,GImageX.bat,,,,,,,,Grub4DosInstaller.bat,IEPassView.bat,,RawCopy.bat,RegRestoreWizard.bat,,,,UnknownDevices.bat,,RemoveWGA.bat,
+SuperAntiSpyware,,InfraRecorder (CD-DVD Copier),,,,,,,,HDHacker (MBR Load/Save),Mail Password Viewer,,Recuva,RegShot,,,,Update Checker (From FileHippo),,Shell Extensions Manager,
+SuperAntiSpyware.bat,,InfraRecorder.bat,,,,,,,,HDHacker.bat,MailPassView.bat,,Recuva.bat,RegShot.bat,,,,UpdateChecker.bat,,ShExView.bat,
+,,Partition Saving,,,,,,,,Partition Find and Mount,MessenPass (Messenger Password),,Restoration,,,,,USBDeview (Uninstall USB devices),,Shell Menu New,
+,,PartSaving.bat,,,,,,,,PartitionFindAndMount.bat,MessenPass.bat,,Restoration.bat,,,,,USBDeview.bat,,ShellMenuNew.bat,
+,,Raw Copy,,,,,,,,Partition Wizard Home Edition,Network Password Recovery,,Smart Partition Recovery,,,,,,,Show Hidden Devices in Device Manager,
+,,RawCopy.bat,,,,,,,,PartitionWizard.bat,NetworkPasswordRecovery.bat,,SmartPartitionRecovery.bat,,,,,,,ShowHiddenDevices.bat,
+,,Registry Backup && Restore Tool,,,,,,,,USB Format Tool,PST (Outlook) Password Recovery,,SoftPerfect File Recovery,,,,,,,TweakUI,
+,,RegistryBackup.bat,,,,,,,,USBFormat.bat,PstPassword.bat,,SoftPerfectFileRecovery.bat,,,,,,,TweakUI.bat,
+,,SelfImage,,,,,,,,,PasswordFox (Firefox Password Recovery),,TestDisk (undelete partition),,,,,,,Ultimate Windows Tweaker (For Vista/7),
+,,SelfImage.bat,,,,,,,,,PasswordFox.bat,,TestDisk.bat,,,,,,,UltimateWindowsTweaker.bat,
+,,Shadow Copy,,,,,,,,,SniffPass (Listens to your network),,Undelete (Optional),,,,,,,Write Protect USB Devices on this PC,
+,,ShadowCopy.bat,,,,,,,,,SniffPass.bat,,Undelete.bat,,,,,,,WriteProtectUSBDevicesOnThisPC.bat,
+,,SnapShot,,,,,,,,,Wireless Key Viewer,,Unstoppable Copier,,,,,,,Xp AntiSpy,
+,,SnapShot.bat,,,,,,,,,WirelessKeyView.bat,,UnstoppableCopier.bat,,,,,,,xp-AntiSpy.bat,
+,,Splitter,,,,,,,,,,,,,,,,,,,
+,,Splitter.exe,,,,,,,,,,,,,,,,,,,
+,,Unstoppable Copier,,,,,,,,,,,,,,,,,,,
+,,UnstoppableCopier.bat,,,,,,,,,,,,,,,,,,,
+,,XXClone,,,,,,,,,,,,,,,,,,,
+,,XXClone.bat,,,,,,,,,,,,,,,,,,,
