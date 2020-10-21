@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\petz 2\Dogz\MS DOS]
+"DisableBackgroundGradientParallax"=dword:00000000
+
